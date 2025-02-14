@@ -11,7 +11,6 @@ A Multi-Layer Perceptron (MLP) is used with three dense layers:
 - Input Layer: 784 neurons (28x28 flattened image input)  
 - Hidden Layers: 128 and 64 neurons (ReLU activation)  
 - Output Layer: 26 neurons (softmax activation for classification)
-The model is trained using categorical cross-entropy loss and Adam optimizer.  
 
 # Code and Libraries
 TensorFlow / Keras: Deep learning model implementation.  
